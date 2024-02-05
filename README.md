@@ -2,7 +2,7 @@
 
 # VidSeg 
 
-VidSeg is a web application developed using Flask framework, HTML and CSS that allows users to search for animals in the uploaded video and segments the video using the YOLOv7 model. It also summarizes the video, generates Q&A based on the segmented video, and provides a dashboard that helps the users to have a glance at the desired content.
+VidSeg is a web application developed using Flask framework, HTML and CSS that allows users to search for animals in the uploaded video and segments the video using the YOLOv8 model. It also summarizes the video, generates Q&A based on the segmented video, and provides a dashboard that helps the users to have a glance at the desired content.
 
 # Website Output
 
@@ -14,5 +14,5 @@ Tools and Technologies:
 - HTML & CSS
 
 Models Used:
-- Yolo v7
+- Yolo v8
 - T5 Transformer
